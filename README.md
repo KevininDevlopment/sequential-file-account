@@ -1,0 +1,1 @@
+Sequential file input and output that creates account information once entered. Project was built in Java using the Swing framework and AWT.
